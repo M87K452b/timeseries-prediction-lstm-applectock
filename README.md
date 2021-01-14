@@ -1,4 +1,4 @@
-# Time Series Predictions for stock data**
+# Time Series Predictions for stock data
   -Just download timeseries and check for dependencies and run TSP-LSTM.ipynb using jupyter notebook
   -Check for dependencies using versions.ipynb
 
