@@ -6,4 +6,4 @@
 * **Getting, cleaning and setting up a simple neural network using tensorflow.**
 * **To make a univariate timeseries prediction by setting up convolutional neural networks for LSTM**
 
-##NOTE: Not reliable enough to make investment decisions. Just a proof of concept for LSTM predictions
+#### NOTE: Not reliable enough to make investment decisions. Just a proof of concept for LSTM predictions
