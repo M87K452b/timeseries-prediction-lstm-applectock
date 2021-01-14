@@ -1,0 +1,5 @@
+https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/ | How to Develop LSTM Models for Time Series Forecasting
+https://machinelearningmastery.com/time-series-forecasting/ | What Is Time Series Forecasting? 
+https://towardsdatascience.com/time-series-prediction-beyond-test-data-3f4625019fd9 | Time-Series Prediction Beyond Test Data | by Andrej Baranovskij | Towards Data Science
+https://machinelearningmastery.com/how-to-use-the-timeseriesgenerator-for-time-series-forecasting-in-keras/ | How to Use the TimeseriesGenerator for Time Series Forecasting in Keras
+https://www.youtube.com/watch?v=d4Sn6ny_5LI | (1) Time Series Prediction - YouTube
